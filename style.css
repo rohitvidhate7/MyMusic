@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 10;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background: linear-gradient(120deg, #0f0c29, #302b63, #24243e);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.player {
+  width: 300px;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  padding: 20px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+
+#imgg{
+  font-size: 200px;
+  color: rgb(255, 215, 237);
+  justify-content: center;
+}
+
+
+.controls button {
+  font-size: 30px;
+  background: #00000000;
+  color: rgb(255, 255, 255);
+  border: none;
+  margin: 0px;
+  padding: 10px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.controls button:hover {
+  background: #9593fc;
+}
