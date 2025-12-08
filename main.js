@@ -44,7 +44,7 @@ playBtn.addEventListener("click", () => {
     playSong();
   } else {
     pauseSong();
-  }
+  } 
 });
 
 nextBtn.addEventListener("click", () => {
