@@ -1,7 +1,7 @@
 const songs = [
 
   {
-    title: "Pal Pal",
+    title: "Pal Pal ",
     src: "./song/song2.mp3",
   },
   {
