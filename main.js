@@ -15,7 +15,7 @@
 ]; 
 
 let index = 0;
-
+ 
 const audio = document.getElementById("audio");
 const songTitle = document.getElementById("songTitle");
 const cover = document.getElementById("cover");
