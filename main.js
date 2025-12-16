@@ -12,7 +12,7 @@
     title: "Roots",  
     src: "./song/song3.mp3",  
   }
-]; 
+];  
 
 let index = 0;
  
