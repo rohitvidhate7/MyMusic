@@ -10,7 +10,7 @@
   }, 
   {
     title: "Roots",  
-    src: "./song/song3.mp3", 
+    src: "./song/song3.mp3",  
   }
 ]; 
 
