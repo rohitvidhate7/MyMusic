@@ -4,7 +4,7 @@
     title: "Pal Pal ",
     src: "./song/song2.mp3",
   }, 
-  {
+  { 
     title: "Bulleya",   
     src: "./song/song1.mp3",
   },   
