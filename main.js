@@ -6,7 +6,7 @@
   }, 
   { 
     title: "Bulleya",   
-    src: "./song/song1.mp3",
+    src: "./song/song1.mp3", 
   },   
   { 
     title: "Roots",  
