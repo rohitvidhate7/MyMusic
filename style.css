@@ -16,7 +16,7 @@ body {
 
 .player {  
   width: 300px;
-  background: linear-gradient(135deg, #667eea, #764ba2);
+  background: linear-gradient(135deg, #667eea, #764ba2); 
   padding: 20px;
   border-radius: 20px;
   text-align: center;
