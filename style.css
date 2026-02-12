@@ -14,7 +14,7 @@ body {
   height: 100vh;     
 }    
 
-.player { 
+.player {  
   width: 300px;
   background: linear-gradient(135deg, #667eea, #764ba2);
   padding: 20px;
